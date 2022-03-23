@@ -1,5 +1,5 @@
 Object-Relational Mapping (ORM) Challenge: E-commerce Back End
-The Coding Bootcamp at UT - Week 13 Assignment
+The Coding Bootcamp - Week 13 Assignment
 Table of Contents
 Challenge
 User Story
