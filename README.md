@@ -29,7 +29,7 @@ Categories walkthrough
 ![CATEGORIES](./walkthroughs/categories_walkthrough.gif)
 
   
-🎥 The full movie files showing functionality of the application can be found in the walkthroughs directory
+🎥 ![The full movie files showing functionality of the application can be found in the walkthroughs directory](./walkthroughs/)
   
 ## User Story
   
