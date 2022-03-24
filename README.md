@@ -16,9 +16,15 @@
   
 ![DB Setup and Start](./walkthroughs/functionality.gif)
 
+Tags walkthrough
+
 ![TAGS](./walkthroughs/tags_walkthrough.gif)
 
+Products walkthrough
+
 ![PRODUCTS](./walkthroughs/product_walkthrough.gif)
+
+Categories walkthrough
 
 ![CATEGORIES](./walkthroughs/categories_walkthrough.gif)
 
