@@ -12,18 +12,18 @@
 
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
   
-💻 Below is the videos showing the functionality of the application:
+💻 Below is the gifs showing the functionality of the application:
   
-![DB Setup and Start](./walkthroughs/functionality.mp4)
+![DB Setup and Start](./walkthroughs/functionality.gif)
 
-![TAGS](./walkthroughs/tags_walkthrough.mp4)
+![TAGS](./walkthroughs/tags_walkthrough.gif)
 
-![PRODUCTS](./walkthroughs/products_walkthrough.mp4)
+![PRODUCTS](./walkthroughs/product_walkthrough.gif)
 
-![CATEGORIES](./walkthroughs/categories_walkthrough.mp4)
+![CATEGORIES](./walkthroughs/categories_walkthrough.gif)
 
   
-🎥 The full movie files showing functionality of the application can also be found in the walkthroughs directory
+🎥 The full movie files showing functionality of the application can be found in the walkthroughs directory
   
 ## User Story
   
